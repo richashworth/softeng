@@ -1,5 +1,5 @@
 # softeng
 
-MSc thesis submission: "Agile Modelling with Formal Methods"
+Dissertation and coursework from https://www.cs.ox.ac.uk/softeng/
 
-https://www.cs.ox.ac.uk/softeng/
+MSc thesis submission: "Agile Modelling with Formal Methods"
