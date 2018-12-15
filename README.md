@@ -1,3 +1,3 @@
 # softeng
 
-Dissertation and coursework from https://www.cs.ox.ac.uk/softeng/
+Dissertation and selected coursework from https://www.cs.ox.ac.uk/softeng/
